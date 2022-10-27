@@ -1,0 +1,80 @@
+
+.login-page {
+   
+  width: 700px;
+  padding: 10px 90px 50px 10px;
+  margin: 60px;
+  margin-left: 500px;
+}
+.login-page .form .login{
+    padding-top: 10px;
+  margin-top: -31px;
+margin-bottom: 26px;
+}
+.form {
+  
+margin-top: 10px;
+
+  margin: 0 auto 100px;
+  padding: 25px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.form input {
+   
+    color: #e9f9ea;
+  font-family: "Roboto", sans-serif;
+  outline: 0;
+  background: #0f1110;
+  width: 100%;
+  border: 10;
+  margin: 0 0 15px;
+  padding: 10px;
+  box-sizing: border-box;
+  font-size: 19px;
+}
+.form button {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  background-image: linear-gradient(45deg,#060306,#461c41);
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #fceded;
+  font-size: 20px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+}
+.form .message {
+  margin: 15px 0 0;
+  color: #b3b3b3;
+  font-size: 12px;
+}
+
+
+.container {
+    
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #f5b8e7;
+  background-image: linear-gradient(#0b1f41,#dbd4fb);
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(124378.webp);
+   /* Add the blur effect */
+  
+ max-width:320px ;
+   /* Full height */
+   height: 100%;
+ 
+   /* Center and scale the image nicely */
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
